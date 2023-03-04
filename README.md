@@ -1,9 +1,9 @@
 # Rabbit-Wordlist
 Wordlist compiled from Stealer Logs
 
-There are just over 6 million passwords in this Wordlist compiled from publically available Stealer Logs (no paid-for data was used!)
+There are over 6 million passwords in this Wordlist compiled from publically available Stealer Logs samples (no paid-for data was used)
 
-The Wordlist has been split into 4 files to work around Github's file upload size limitation. A quick way to join them together from the terminal is to move all 4 files into their own directory and then run:
+The Wordlist has been split into smaller files to work around Github's file upload size limitation. A quick way to join them together from the terminal is to move all files into their own directory and then run:
 
 cat * > Rabbit-Wordlist-Deduped.txt
 
